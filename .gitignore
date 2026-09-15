@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
+
+# vs code
+.vscode/
 
 # C extensions
 *.so
